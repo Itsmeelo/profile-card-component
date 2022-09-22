@@ -63,7 +63,7 @@ body {
 }
 
 .image__container {
-  background-image: url(/images/bg-pattern-card.svg);
+  background-image: url(../images/bg-pattern-card.svg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
